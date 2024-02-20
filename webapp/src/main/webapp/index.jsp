@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Form DevOps Learning</h1>
+    <h1>New DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -18,6 +18,12 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+    <br><br><br>
+
+    <label for="area"><b>Area</b></label>
+    <input type="text" placeholder="Enter area" name="area" id="area" required>
+    <br><br><br>
+
     <hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
