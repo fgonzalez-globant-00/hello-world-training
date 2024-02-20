@@ -20,7 +20,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br><br><br>
 
-    <label for="area"><b>Area</b></label>
+    <label for="area"><b>Area of work</b></label>
     <input type="text" placeholder="Enter area" name="area" id="area" required>
     <br><br><br>
 
